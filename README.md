@@ -1,3 +1,3 @@
 # memories-app
 
-Fullstack app (Node, Express. React and MongoDB)
+(Node, Express. React and MongoDB)
